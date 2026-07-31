@@ -5,8 +5,8 @@
 %global crate libdbus-sys
 
 Name:           rust-%{crate}
-Version:        0.2.1
-Release:        2%{?dist}
+Version:        0.2.7
+Release:        1%{?dist}
 Summary:        FFI bindings to libdbus
 
 # Upstream license specification: Apache-2.0/MIT
